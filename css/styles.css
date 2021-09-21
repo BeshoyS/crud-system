@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    font-family: "segoe ui light" ;
+}
+
+
+.red{
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.highlight {
+    background-color: yellow;
+  }
